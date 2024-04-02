@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "vite --open"
+    "start": "vite --open",
+    "build": "vite build"
   },
   "dependencies": {
     "react": "18.2.0",
